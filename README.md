@@ -1,4 +1,4 @@
 umemak
 ======
 
-[blog](./blog)
+[blog](./blog/posts/)
